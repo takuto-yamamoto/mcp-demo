@@ -1,0 +1,23 @@
+# os
+.DS_Store
+
+# vscode
+.vscode/
+.history/
+
+# nodejs
+node_modules/
+.tool-versions
+
+# typescript
+*.tsbuildinfo
+build/
+
+# env
+.env
+.env.*
+!.env.example
+
+# others
+.cache/
+tmp/
