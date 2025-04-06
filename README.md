@@ -7,9 +7,9 @@ More details [here](https://modelcontextprotocol.io/quickstart/server).
 ## wip
 
 - [x] set up development environment
-- [] create the mcp server script
-- [] define mcp tools
-- [] run and test the server locally
+- [x] create the mcp server script
+- [x] define mcp tools
+- [x] run and test the server locally
 
 ## author
 
